@@ -53,3 +53,6 @@ var infected = [
 		]
 	},
 ]
+
+module.exports = colonists;
+module.exports = infected;
